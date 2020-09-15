@@ -1,6 +1,3 @@
-## This project is not actively developped anymore
-
-
 # dashboard-q
 
 Dashboard-q is a homelab dashboard with qBittorrent/Transmission, PRTG and forecast.io integration.
